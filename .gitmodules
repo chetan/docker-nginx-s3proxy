@@ -1,9 +1,6 @@
 [submodule "modules/ngx_devel_kit"]
 	path = ngx_modules/ngx_devel_kit
 	url = https://github.com/simpl/ngx_devel_kit.git
-[submodule "ngx_source"]
-	path = ngx_source
-	url = https://github.com/nginx/nginx
 [submodule "ngx_modules/ngx_aws_auth"]
 	path = ngx_modules/ngx_aws_auth
 	url = https://github.com/anomalizer/ngx_aws_auth.git
